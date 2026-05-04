@@ -20,6 +20,8 @@ version8.01　分離譲渡所得の特別控除の誤り修正、他、多数修
 
 version8.02　生命保険料控除の誤り修正
 
+version8.03　障害者控除の誤り修正
+
 ## furusato2026_v702.jar
 
 以前のfurusato2026.jarです。
